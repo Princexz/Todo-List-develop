@@ -2,7 +2,22 @@
 
 ![Microverse](https://img.shields.io/badge/-Microverse-6F23FF?style=for-the-badge)
 
-## Description..
+
+<p align="center">	
+   <a href="https://www.linkedin.com/in/princexz">
+      <img alt="Prince Solomon" src="https://img.shields.io/badge/-princexz-1AD043?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/princexz/Quiz-Application/blob/main/License">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/princexz/Quiz-Application?color=#1AD043" />
+  </a>
+  <img alt="Stars" src= "https://img.shields.io/github/stars/princexz/Quiz-Application?color=#1AD043" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/princexz/Quiz-Application?color=#1AD043" />
+<img alt= "Watchers" src="https://img.shields.io/github/watchers/princexz/Quiz-Application?color=#1AD043" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/princexz/Quiz-Application?color=#1AD043" />
+</p>
+
+
+### Description..
 
 ### This project is a javascript Based Todo Web Application
 
@@ -31,11 +46,9 @@ To-do list web app allows users to keep track of their tasks in an easy way. Eve
 
 [Live demo](./)
 
- ## Screenshot
+ ### Screenshot
 
-![img]()
-
-## Built With 🛠
+### Built With 🛠
 
 ```
 - Visual Studio Code
@@ -47,7 +60,7 @@ To-do list web app allows users to keep track of their tasks in an easy way. Eve
 
 ```
 
-## Contributing
+### Contributing
 
 - Fork the project
 - Create your feature branch `git checkout -b awesome-feature`
@@ -55,7 +68,7 @@ To-do list web app allows users to keep track of their tasks in an easy way. Eve
 - Push it `git push -u origin awesome-feature`
 - Open a pull request using this branch
 
-## Author :nib_black:
+### Author: :black_nib:
 
 ### 👨‍💻 Prince Solomon
 
